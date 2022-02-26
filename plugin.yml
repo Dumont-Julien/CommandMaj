@@ -1,0 +1,6 @@
+name: CommandMaj
+version: 1.0.0
+main: NewTheBuilder\CommandMaj\Main
+api: 4.0.0
+author: NewTheBuilder
+description: allows players to do uppercase commands
